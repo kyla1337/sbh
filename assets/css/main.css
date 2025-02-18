@@ -2515,8 +2515,8 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #e56f44;
-			box-shadow: 0 0 0 1px #e56f44;
+			border-color: #83a7e6;
+			box-shadow: 0 0 0 1px #83a7e6;
 		}
 
 	select {
@@ -2540,16 +2540,16 @@ input, select, textarea {
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #e56f44;
-		border-color: #e56f44;
-		box-shadow: 0 0 0 1px #e56f44;
+		background-color: #83a7e6;
+		border-color: #83a7e6;
+		box-shadow: 0 0 0 1px #83a7e6;
 		color: #ffffff;
 	}
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #e56f44;
-		box-shadow: 0 0 0 1px #e56f44;
+		border-color: #83a7e6;
+		box-shadow: 0 0 0 1px #83a7e6;
 	}
 
 	::-webkit-input-placeholder {
@@ -3674,7 +3674,7 @@ input, select, textarea {
 				#wrapper > .main.accent2 input[type="button"]:active,
 				#wrapper > .main.accent2 button:active,
 				#wrapper > .main.accent2 .button:active {
-					background-color: #e25e2e;
+					background-color: #83a7e6;
 				}
 
 				#wrapper > .main.accent2 input[type="submit"].alt,
@@ -3720,8 +3720,8 @@ input, select, textarea {
 				#wrapper > .main.accent2 input[type="email"]:focus,
 				#wrapper > .main.accent2 select:focus,
 				#wrapper > .main.accent2 textarea:focus {
-					border-color: #e56f44;
-					box-shadow: 0 0 0 1px #e56f44;
+					border-color: #83a7e6;
+					box-shadow: 0 0 0 1px #83a7e6;
 				}
 
 			#wrapper > .main.accent2 select {
@@ -3745,16 +3745,16 @@ input, select, textarea {
 
 			#wrapper > .main.accent2 input[type="checkbox"]:checked + label:before,
 			#wrapper > .main.accent2 input[type="radio"]:checked + label:before {
-				background-color: #e56f44;
-				border-color: #e56f44;
-				box-shadow: 0 0 0 1px #e56f44;
+				background-color: #83a7e6;
+				border-color: #83a7e6;
+				box-shadow: 0 0 0 1px #83a7e6;
 				color: #ffffff;
 			}
 
 			#wrapper > .main.accent2 input[type="checkbox"]:focus + label:before,
 			#wrapper > .main.accent2 input[type="radio"]:focus + label:before {
-				border-color: #e56f44;
-				box-shadow: 0 0 0 1px #e56f44;
+				border-color: #83a7e6;
+				box-shadow: 0 0 0 1px #83a7e6;
 			}
 
 			#wrapper > .main.accent2 ::-webkit-input-placeholder {
@@ -3806,7 +3806,7 @@ input, select, textarea {
 			}
 
 			#wrapper > .main.accent2 .post > .content header .category {
-				color: #e56f44;
+				color: #83a7e6;
 			}
 
 			#wrapper > .main.accent2 .post.style2 {
