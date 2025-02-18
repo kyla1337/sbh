@@ -4292,7 +4292,7 @@ input, select, textarea {
 	}
 
 		#banner > .content {
-			background-color: #031d2d;
+			background-color: #75482eba;
 			color: #ffffff;
 			-moz-transition: -moz-transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
 			-webkit-transition: -webkit-transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
