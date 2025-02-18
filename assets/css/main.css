@@ -3324,7 +3324,7 @@ input, select, textarea {
 		}
 
 	.post > .content header .category {
-		color: #e56f44;
+		color: #87a7e6;
 	}
 
 	.post.style2 {
@@ -3359,7 +3359,7 @@ input, select, textarea {
 				height: 0.25rem;
 				margin: 0 0 1.5rem 0;
 				border-radius: 4px;
-				background-color: #e56f44;
+				background-color: #87a7e6;
 			}
 
 		#wrapper > .main > .inner {
@@ -4039,7 +4039,7 @@ input, select, textarea {
 						left: -0.25rem;
 						width: calc(100% + 0.5rem);
 						height: 0.25rem;
-						background-color: #e56f44;
+						background-color: #87a7e6;
 						border-radius: 4px;
 					}
 
