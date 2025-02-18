@@ -2623,7 +2623,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			left: 0;
-			width: 100%;
+			width: 16em;
 			height: 100%;
 		}
 
@@ -3182,7 +3182,7 @@ input, select, textarea {
 		}
 
 			.post.alt > .content {
-				padding: 5rem 0 5rem 4rem;
+				padding: 5rem 0 5rem 12rem;
 			}
 
 		.post.style2 {
