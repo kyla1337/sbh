@@ -3296,6 +3296,9 @@ input, select, textarea {
 
 					.post > .image img {
 						border-radius: 4px 4px 0 0 !important;
+						object-fit: cover;
+        					width: 100%;
+        					position: static;
 					}
 
 				.post:first-child {
