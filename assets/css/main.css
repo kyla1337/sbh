@@ -3874,7 +3874,7 @@ input, select, textarea {
 
 					#wrapper > .main > .inner.style2 > .image.main:first-child {
 						top: -2.5rem;
-						left: -2rem;
+						left: 0rem;
 						width: calc(100% + 4rem);
 						height: 18rem;
 					}
