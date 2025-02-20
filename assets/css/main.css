@@ -2927,6 +2927,122 @@ input, select, textarea {
 			ul.icons li .icon:before {
 				font-size: 1.25rem;
 			}
+/* Insurancelogo */
+
+	ul.inslogo {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		-moz-justify-content: center;
+		-webkit-justify-content: center;
+		-ms-justify-content: center;
+		justify-content: center;
+		list-style: none;
+		padding-left: 0;
+	}
+
+		ul.inslogo li {
+			display: -moz-flex;
+			display: -webkit-flex;
+			display: -ms-flex;
+			display: flex;
+			-moz-flex-direction: column;
+			-webkit-flex-direction: column;
+			-ms-flex-direction: column;
+			flex-direction: column;
+			-moz-align-items: center;
+			-webkit-align-items: center;
+			-ms-align-items: center;
+			align-items: center;
+			padding-left: 0;
+			text-align: center;
+			margin: 0 0 0 4rem;
+		}
+
+			ul.inslogo li:first-child {
+				margin-left: 0;
+			}
+
+			ul.inslogo li > :last-child {
+				margin-bottom: 0;
+			}
+
+			ul.inslogo li .image {
+				border-radius: 100%;
+				margin: 0 0 1.5rem 0;
+			}
+
+				ul.inslogo li .image img {
+					border-radius: 100%;
+					width: 8rem;
+				}
+
+			ul.inslogo li h3 {
+				font-size: 0.8rem;
+				margin: 0 0 0.25rem 0;
+			}
+
+			ul.inslogo li p {
+				font-size: 0.8rem;
+			}
+
+		@media screen and (max-width: 1280px) {
+
+			ul.inslogo li {
+				margin: 0 0 0 3rem;
+			}
+
+		}
+
+		@media screen and (max-width: 980px) {
+
+			ul.inslogo li {
+				margin: 0 0 0 2rem;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			ul.inslogo li .image img {
+				width: 6rem;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			ul.inslogo {
+				display: block;
+			}
+
+				ul.inslogo li {
+					margin: 0 0 2rem 0;
+				}
+
+					ul.inslogo li .image img {
+						width: 10rem;
+					}
+
+					ul.inslogo li h3 {
+						font-size: 1rem;
+					}
+
+					ul.inslogo li p {
+						font-size: 1rem;
+					}
+
+					ul.inslogo li:last-child {
+						margin-bottom: 0;
+					}
+
+		}
+
 
 /* Faces */
 
