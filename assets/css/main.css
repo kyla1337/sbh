@@ -2978,8 +2978,8 @@ input, select, textarea {
 			}
 
 				ul.inslogo li .image img {
-					border-radius: 100%;
-					width: 8rem;
+					border-radius: 10%;
+					width: 7rem;
 				}
 
 			ul.inslogo li h3 {
