@@ -4056,7 +4056,7 @@ input, select, textarea {
 				box-shadow: 0 0.075rem 0.75rem 0 rgba(0, 0, 0, 0.125);
 				list-style-type: none;
 				margin: -0.5rem 0 0 1px;
-				min-width: 12rem;
+				min-width: 10rem;
 				padding: 0.5rem 0;
 			}
 
