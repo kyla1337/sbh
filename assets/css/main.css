@@ -4177,8 +4177,8 @@ input, select, textarea {
 			}
 
 				.dropotron.level-0 {
-					margin-top: 1.125rem;
-					margin-left: 0;
+					margin-top: 1rem;
+					margin-left: 36px;
 				}
 
 					.dropotron.level-0:before {
