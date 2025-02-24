@@ -3416,6 +3416,9 @@ input, select, textarea {
         					width: 100%;
         					position: static;
 					}
+			#deb2 {
+				object-fit: scale-down;
+			}
 
 				.post:first-child {
 					border-top: 0;
