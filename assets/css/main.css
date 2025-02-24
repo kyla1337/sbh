@@ -3982,6 +3982,9 @@ input, select, textarea {
 
 			#wrapper > .main {
 				padding: 4rem 2rem 2rem 2rem ;
+				  .style {
+					display: none;
+				
 			}
 
 				#wrapper > .main > .inner.style2 {
