@@ -3966,7 +3966,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#wrapper > .main > .inner.style2 {
-				padding: 4rem 3rem 2rem 3rem ;
+				padding: 4rem 3rem 2rem 3rem !important;
 			}
 
 				#wrapper > .main > .inner.style2 > .image.main:first-child {
