@@ -3307,6 +3307,7 @@ input, select, textarea {
 
 			.post.style2 > .content {
 				padding: 5rem 4rem;
+				margin: -4rem 0rem -4rem 0rem;
 			}
 
 			.post.style2 > .image {
