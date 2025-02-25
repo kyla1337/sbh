@@ -3269,7 +3269,7 @@ input, select, textarea {
 			.post > .content header .category {
 				font-weight: 600;
 				display: block;
-				margin: -22px 0 1.35rem 0;
+				margin: -15px 0 1.35rem 0;
 			}
 
 			.post > .content > :last-child {
